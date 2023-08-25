@@ -10,7 +10,7 @@ function ChargeSection() {
             <h2 className="text-black pt-40 text-[40px] font-medium">
               Model Y
             </h2>
-            <p className="text-black text-base text-sm underline">
+            <p className="text-black text-base">
               Concertar una prueba de conducción
             </p>
           </header>

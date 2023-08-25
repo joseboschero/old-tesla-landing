@@ -1,7 +1,7 @@
 function Logo() {
   return (
     <svg
-      class="h-6 w-28 transition-colors duration-400"
+      className="h-6 w-28 transition-colors duration-400"
       viewBox="0 0 342 35"
       xmlns="http://www.w3.org/2000/svg"
     >

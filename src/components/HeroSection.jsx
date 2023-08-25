@@ -12,7 +12,7 @@ function HeroSection() {
             <h2 className="text-white pt-40 text-[40px] font-medium">
               Disfrute de Tesla
             </h2>
-            <p className="text-white text-base text-sm">
+            <p className="text-white text-base">
               Programe una prueba de conducción hoy mismo
             </p>
           </header>
