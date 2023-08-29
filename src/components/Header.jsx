@@ -54,28 +54,30 @@ function Header() {
         className="py-3 px-10 flex items-center fixed top-0 w-full justify-between z-40 text-white"
       >
         <div className="flex flex-grow basis-0">
-          <Logo />
+          <a href="">
+            <Logo />
+          </a>
         </div>
 
         <nav>
           <ul className="flex text-sm [&>li>a]:transition-colors [&>li>a]:duration-400 [&>li>a]:font-medium [&>li>a]:text-current [&>li>a]:inline-block [&>li>a]:px-4 [&>li>a]:py-2">
             <li>
-              <a href="">Model S</a>
+              <a href="#model-s">Model S</a>
             </li>
             <li>
-              <a href="">Model 3</a>
+              <a href="#model-3">Model 3</a>
             </li>
             <li>
-              <a href="">Model X</a>
+              <a href="#model-x">Model X</a>
             </li>
             <li>
-              <a href="">Model Y</a>
+              <a href="#model-y">Model Y</a>
             </li>
             <li>
-              <a href="">Powerwall</a>
+              <a href="#powerwall">Powerwall</a>
             </li>
             <li>
-              <a href="">Carga</a>
+              <a href="#accesorios">Carga</a>
             </li>
           </ul>
         </nav>
